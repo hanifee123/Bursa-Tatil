@@ -1,2 +1,2 @@
 # Bursa-Tatil
-Bursa'daki halk plajları7React uygulaması
+Bursa'daki halk plajları/React uygulaması
